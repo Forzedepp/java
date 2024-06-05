@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Employee>
+    <Employer>
+        <surname>Petrov</surname>
+        <post>Boss</post>
+        <salary>5000$</salary>
+    </Employer>
+    <Employer>
+        <surname>Ivanov</surname>
+        <post>Deputy boss</post>
+        <salary>4500$</salary>
+    </Employer>
+</Employee>
